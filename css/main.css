@@ -10,12 +10,17 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-html {
-  font-family: sans-serif;
+.img-flex {
+  width: 100%;
+}
+
+body {
+  margin: 0;
 }
